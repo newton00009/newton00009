@@ -2,11 +2,10 @@
 
 ## I'm a Coder, Gamer , Developer and Memer...
 
-- 🔭 I’m currently working on DS ALGO
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Listen Music and play Games
+- 🔭 I’m currently working with CloudFrame
+- 🌱 I’m currently learning everything <3
+- 🥅 2023 Goals: Contribute more to my JAVA knowledge 
+- ⚡ Fun fact: I love to Listen Music and play Games(Counter strike for Life 🦖)
 
 
 
